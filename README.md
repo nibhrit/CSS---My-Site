@@ -1,7 +1,7 @@
 #CSS --- MY Site
 
-This is a stylised site I built through som eonline tutorials using intermediate CSS.
-Hosted at **
+This is a stylised site I built through some online tutorials using intermediate CSS. Learnt about styling the page better, some typography, color scheme and important CSS properties.
+Hosted at *https://nibhrit.github.io/CSS---My-Site/*
 
 Some new things I learned - 
 
